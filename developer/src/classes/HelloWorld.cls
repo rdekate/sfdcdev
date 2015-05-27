@@ -7,4 +7,8 @@ public class HelloWorld {
     public void sayMe(){
         system.debug('Me');
     }
+    
+    public void sayMeAndYou(){
+        system.debug('Me and You');
+    }
 }
