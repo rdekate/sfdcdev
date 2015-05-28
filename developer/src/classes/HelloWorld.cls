@@ -2,7 +2,6 @@ public class HelloWorld {
     //Sprint 1
     // JIRA - 1001
     // JIRA - 1010
-    // JIRA - 1020
     // JIRA - 1030
     // JIRA - 1040
     
